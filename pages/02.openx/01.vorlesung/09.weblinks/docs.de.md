@@ -9,7 +9,8 @@ taxonomy:
 Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen mit grundlegenden Informationen zu den OpenXX-Themen. Weitere Informationen können Sie auch unseren Kontext-bezogenen Querverweisen in der Vorlesung sowie dem Literaturverzeichnis entnehmen.
 
 ## Kategorie-Übersicht:
-- [E-Learning / Weiterbildung](#e-learning-weiterbildung)
+- [Kategorie-Übersicht:](#kategorie-%c3%9cbersicht)
+- [E-Learning / Weiterbildung](#e-learning--weiterbildung)
 - [Allgemeine Informationen](#allgemeine-informationen)
 - [Organisationen](#organisationen)
 - [Definitionen und Richtlinien](#definitionen-und-richtlinien)
@@ -18,13 +19,7 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen m
 ## E-Learning / Weiterbildung
 
 <div class="simple-responsive-table" markdown="1">
-  <table>
-  <tr>
-  <th>Website</th>
-  <th>Beschreibung</th>
-  </tr>
-  <tr>
-  <td markdown="1">
+  <table><tr><th>Website</th><th>Beschreibung</th></tr><tr> <td markdown="1">
   *(Deutsch / mehrsprachig)* <br/>
   **E-Learning-Programm des Europäischen Datenportals** <br/>
   https://www.europeandataportal.eu/elearning/de/
@@ -51,9 +46,15 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen m
   </td><td markdown="1">
   Geo for all ist eine Initiative der [OSGeo-Foundation](https://www.osgeo.org) mit dem Ziel, *geospatial education and opportunities* (~ geographisch-räumliche Ausbildung und Angebote) für Alle zugänglich zu machen. Neben Webinaren und offenen Inhalten unterhält die Initiative ein weltweites Netzwerk sogenannter Labs, die unter anderem Projekte vor Ort organisieren.
   </td></tr>
+  <tr><td markdown="1">
+  **Frankfurt Open Courseware (FOC)**<br/>
+  http://foc.geomedienlabor.de
+  </td><td markdown="1">
+  Onlineplattform mit freien (CC-BY-SA) Kursmaterialien des Geomedienlabors Frankfurt (Einrichtung d. Uni Frankfurt) zu unterschiedlichen Themen, wie z.B. Storymaps oder Crowdsourcing.
+  </td></tr>
   </table></div>
   <a href="#">&uArr; nach oben</a>
-  <!--http://www.geoforall.org/
+  <!--
   http://spatialquerylab.com/foss4g-academy-curriculum/-->
   ## Allgemeine Informationen
   <div  markdown="1"><table>
@@ -61,16 +62,13 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen m
   <th>Website</th>
   <th>Beschreibung</th>
   </tr>
-
-  <!--
-  opendata.Swiss: OGD Handbook
-  https://handbook.opendata.swiss/de/pages/index
-
-
+  <tr><td markdown="1">
   *deutsch / mehrsprachig*  <br/>
-  **Open Knowlege International: Das Open Data Handbuch**  <br/>
+  **Open Knowlege Foundation: Das Open Data Handbuch**  <br/>
   http://opendatahandbook.org/guide/de/
-  -->
+  </td><td markdown="1">
+  Einer der bekanntesten Leitfäden zum Umgang mit offenen Daten, geschrieben von Teilen der Open Data-Community (d.h. der Open Konwledge Foundation)
+  </td></tr>
 
   <tr><td markdown="1">
   *Deutsch* <br/>
@@ -178,14 +176,14 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen m
   </td></tr>
   <tr><td markdown="1">
   *Englisch / Deutsch* <br/>
-  **Open Knowlege International** https://okfn.org/
+  **Open Knowledge Foundation** https://okfn.org/
   </td><td markdown="1">
-  Open Knowlege International ist eine globale gemeinnützige Organisation mit
+  Die Open Knowledge Foundation ist eine globale gemeinnützige Organisation mit
   dem Ziel, den Wert von Open Data für die Gesellschaft zu erschließen. Sie
   hilft Gruppen der Zivilgesellschaft, Zugang zu Daten zu erhalten und diese
   zu nutzen, um Maßnahmen zur Lösung sozialer Probleme zu ergreifen.
 
-  Zweige von Open Knowledge International **im deutschspragem Raum:**
+  Zweige von der Open Knowledge Foundation **im deutschspragem Raum:**
 
   - Open Knowledge Foundation Deutschland e. V. https://okfn.de/
   - Open Knowledge Österreich https://okfn.at/
@@ -220,7 +218,7 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen m
   *Deutsch / mehrsprachig* <br/>
   **Open Definition** <br/>https://opendefinition.org/
   </td><td markdown="1">
-  Definition der Open Knowlege International zu Open Data und offenen Werke.
+  Definition der Open Knowledge Foundation zu Open Data und offenen Werke.
   Die Open Definition ist de-facto weitgehend anerkannt in der Open Data-Community und darüber hinaus.
 
   </td></tr><tr><td markdown="1">
@@ -272,7 +270,7 @@ Hier finden Sie eine kommentierte Auswahl von externen Websites und Ressourcen m
   **Open Definition - Comformant licenses**<br/>
   https://opendefinition.org/licenses/
   </td><td markdown="1">
-  Liste von Lizenzen, die von Open Knowlege International als *offen*
+  Liste von Lizenzen, die von der Open Knowledge Foundation als *offen*
   im Sinne der Open Definition anerkannt wurden.
   </td></tr>
   <tr><td markdown="1">
