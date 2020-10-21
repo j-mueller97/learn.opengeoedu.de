@@ -18,7 +18,7 @@ facebookenable: true
 <div class="row align-items-center">
   <div class="col-sm-3" markdown="1">![](Jasmin_Kalcher_bild2.jpg?lightbox=800&resize=300) </div>
   <div class="col-sm-9">
-      <p>Jasmin Kalcher is a scientist at DBFZ since 2017. After studying "Renewable Resources" at the Technical University of Munich, she worked as a research assistant at the University of Natural Resources and Applied Life Sciences in Vienna in an EU project on the identification of waste wood potentials. At DBFZ she focuses on the determination of biomass potentials on a national and international level. Her focus is on GIS-based analysis of the spatial distribution of biogenic resources.</p>
+      <p>Jasmin Kalcher is a scientist at the DBFZ since 2017. After studying "Renewable Resources" at the Technical University of Munich, she worked as a research assistant at the University of Natural Resources and Applied Life Sciences in Vienna in an EU project on the identification of waste wood potentials. At DBFZ she focuses on the determination of biomass potentials on a national and international level. Her focus is on GIS-based analysis of the spatial distribution of biogenic resources.</p>
   </div>
 </div>  
 
