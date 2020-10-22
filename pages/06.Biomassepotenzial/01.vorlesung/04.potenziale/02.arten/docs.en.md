@@ -9,7 +9,7 @@ The potential levels can be translated into different potential types, which can
 - Theoretical potential
 - Technical potential
 - Economic potential
-- Sustainable potential
-- Exploitable potential
+- Ecological sustainable potential
+- Implementation potential
 
 ![](Skript_DBFZ_Potenzialarten_en.png?lightbox=800&resize=500&classes=caption "Schematic illustraion of potential types. Adapted from: Thrän and Pfeiffer 2013")
