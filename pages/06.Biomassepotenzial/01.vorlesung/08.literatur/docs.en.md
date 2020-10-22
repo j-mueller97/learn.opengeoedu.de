@@ -33,6 +33,8 @@ Creutzig, Felix; Ravindranath, N. H.; Berndes, Göran; Bolwig, Simon; Bright, Ry
 
 DBFZ resource database. As of 25.03.2020. [Online](http://webapp.dbfz.de)
 
+Faaij, André P.C. (Hg.) (2018): Securing sustainable resource availability of biomass for energy applications in Europe; review of recent literature. University of Groningen. [Online](https://energy.nl/wp-content/uploads/2019/06/Bioenergy-Europe-EU-Biomass-Resources-Andr%C3%A9-Faaij-Final.pdf).
+
 Fachagentur Nachwachsende Rohstoffe e. V. (FNR) (Hg.) (2018): Anbau und Verwendung Nachwachsender Rohstoffe in Deutschland. Unter Mitarbeit von A. Becker, D. Peters und D. Kemnitz. [Online](https://mediathek.fnr.de/anbauflache-fur-nachwachsende-rohstoffe.html).
 
 Food and Agriculture Organization of the United Nations (FAO) (2017): Incentivizing sustainable wood energy in Sub-Saharan Africa. A way forward for policy makers. [Online](http://www.fao.org/3/a-i6815e.pdf).
