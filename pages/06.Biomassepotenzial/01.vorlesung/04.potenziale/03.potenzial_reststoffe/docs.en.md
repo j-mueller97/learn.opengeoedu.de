@@ -12,6 +12,6 @@ In the field of biogenic residues and wastes, the [DBFZ-Resource Database](webap
 ![](Skript_DBFZ_Rohstoffpotenziale_en.png?lightbox=800&resize=700&classes=caption "Biomass residue potentials and their current utilisation (in German). Source: Brosowski et al. 2019")
 
  <br>
-! Brosowski, André; Krause, Tim; Mantau, Udo; Mahro, Bernd; Noke, Anja; Richter, Felix; et al. (2019): How to measure the impact of biogenic residues, wastes and by-products: Development of a national resource monitoring based on the example of Germany. In: Biomass and Bioenergy, Volume 127 (2019). Online verfügbar unter: https://www.sciencedirect.com/science/article/pii/S0961953419302247 <br>
+! Brosowski, André; Krause, Tim; Mantau, Udo; Mahro, Bernd; Noke, Anja; Richter, Felix; et al. (2019): How to measure the impact of biogenic residues, wastes and by-products: Development of a national resource monitoring based on the example of Germany. In: Biomass and Bioenergy, Volume 127 (2019). Online available at: https://www.sciencedirect.com/science/article/pii/S0961953419302247 <br>
 ! DBFZ-Resource Database: webapp.dbfz.de<br>
 ! Fachagentur für Nachwachsende Rohstoffe (FNR, in German): [Basic Data on Renewable Resources](https://basisdaten.fnr.de/)
