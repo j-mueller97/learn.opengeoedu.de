@@ -11,7 +11,7 @@ The group of biogenic residues and waste materials consists of a large number of
 
 | Aggregation level | Single biomass (examples) |
 |-|-|
-| forestry by-products | logging residues (coniferous, deciduos), bark, by products of wood processing industries and wood shavings, black liquor, waste wood |
+| forestry by-products | logging residues (coniferous, deciduous), bark, by products of wood processing industries and wood shavings, black liquor, waste wood |
 | agricultural by-products | cereal straw, cattle slurry, cattle liquid manure, beet leaves, rapeseed straw |
 | municipal waste | bio waste from private households, green waste, kitchen and canteen wastes, sewage sludge from public wastewater treatment plants |
 | industrial waste | residues from milk processing, vegetable processing, biodiesel production |
